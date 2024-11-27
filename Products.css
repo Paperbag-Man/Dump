@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+    line-height: 1.6;
+    background-color: peru;
+    padding: 0 1vw;
+}
+
+.order .order-image{
+    display: flex;
+    width: fit-content;
+    overflow: hidden;
+    position: relative; 
+}
+
+.products .product-head{
+    border-radius: 10px;
+    border-style: none;
+    padding: 20px;
+    background-image: url(bg2.png);
+    background-position-x: center;
+    background-position-y: 12pt;
+    background-repeat: no-repeat;
+    display: flex;
+    position: relative;
+}
+
+.product-head h1{
+    text-align: left;
+    width: 550px;
+    background-color: transparent;
+    font-size: 35pt;
+    padding-top: 20pt;
+    height: fit-content;
+}
+
+.product-head p{
+    text-align: left;
+    width: fit-content;
+    background-color: transparent;
+    padding-top: 55pt;
+}
+
+h2{
+    text-align: center;
+    font-size: 35pt;
+}
+
+.head-image{
+    background-color: transparent;
+    width: 380px;
+    border-radius: 15px;
+    padding-top: 20pt;
+    padding-left: 60pt;
+}
+
+.order:hover{
+    color: transparent;
+}

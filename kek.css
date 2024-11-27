@@ -1,0 +1,53 @@
+.footer{
+    background-color: #3e2723;
+    color: white;
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    padding-bottom: 0;
+}
+
+
+#footer-name{
+    margin-top: 10vh;
+    margin-left: 70px;
+    font-size: 60px;
+}
+#footer-text{
+    margin-left: 70px;
+    margin-top: 80px;
+    font-size: 15px;
+    font-family: 'DM Sans';
+    
+
+}
+#credits{
+    margin-top: 170px;
+    font-size: 25px;
+}
+#footer-page,p{
+    margin-top: 35px;
+    margin-left: 60px;
+    font-family: 'DM Sans';
+    font-size: 15px;
+    
+
+}
+
+#footer-header{
+    margin-top: 35px;
+    margin-left: 60px;
+    font-family: 'DM Sans';
+    font-size: 15px;
+}
+
+#footer-utility{
+    margin-top: 35px;
+    margin-left: 60px;
+    font-family: 'DM Sans';
+    font-size: 15px;
+}
+
+#foot-text{
+    padding-bottom: 20px;
+}
